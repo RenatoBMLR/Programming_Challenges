@@ -27,3 +27,4 @@ class Solution:
         if negative_signal:
             res -= 2*res
         return res
+s
